@@ -1,5 +1,7 @@
 # Critical Path Analysis Project Manager
 
+[Documentation](https://docs.google.com/document/d/127WTv_NZe0f2TyRsqpu1QD3bDq1dT3GFGAqYvKrOxVQ/edit?usp=sharing)
+
 Performs Critical Path Analysis, generates Gantt Charts, and tracks project progress
 
 Allows importing and exporting projects
