@@ -1,6 +1,7 @@
 # Critical Path Analysis Project Manager
 
 Performs Critical Path Analysis, generates Gantt Charts, and tracks project progress
+
 Allows importing and exporting projects
 
 ## Examples
